@@ -26,6 +26,7 @@
     {"name":"Sprite4","order":22,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"warp_to_2","order":18,"path":"objects/warp_to_2/warp_to_2.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"snd_warp","order":1,"path":"sounds/snd_warp/snd_warp.yy",},
     {"name":"Sprite10","order":25,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"seq_loser","order":2,"path":"sequences/seq_loser/seq_loser.yy",},
     {"name":"obj_goal_trigger","order":6,"path":"objects/obj_goal_trigger/obj_goal_trigger.yy",},

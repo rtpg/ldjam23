@@ -21,6 +21,11 @@ if place_meeting(x, y, obj_wall) {
  x = xprevious;
  y = yprevious;
 }
+if place_meeting(x, y, obj_door) {
+	x = xprevious;
+	y = yprevious;
+}
+
 
 if keyboard_check_pressed(ord("F")) {
 	image_index = (image_index == 0 ? 1 : 0);

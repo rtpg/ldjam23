@@ -1,4 +1,7 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"LoseRoom","order":1,"path":"rooms/LoseRoom/LoseRoom.yy",},
+    {"name":"SecondRoom","order":2,"path":"rooms/SecondRoom/SecondRoom.yy",},
+  ],
 }

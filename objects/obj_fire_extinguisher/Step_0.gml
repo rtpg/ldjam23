@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 // precondition to be close to fire extinguisher
-if (collision_circle(x, y, 5, obj_player, false, false))
+if (collision_circle(x, y, 20, obj_player, false, false))
 	{
 	// left click to take the fire extinguisher
 	if (keyboard_check_pressed(vk_space)){
@@ -17,7 +17,9 @@ if grab {
 	// shot smoke
 	if keyboard_check_pressed(ord("G"))
 	{
-		instance_create_layer(x, y, "Instances", obj_smoke)
+		smoke = instance_create_layer(x, y, "Instances", obj_smoke)
+		smoke.image_xscale = obj_player.image_xscale
+		smoke.image_yscale = obj_player.image_yscale
 	}
 }
 		

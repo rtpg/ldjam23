@@ -27,6 +27,7 @@
     {"name":"warp_to_2","order":18,"path":"objects/warp_to_2/warp_to_2.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"Sprite10","order":25,"path":"sprites/Sprite10/Sprite10.yy",},
+    {"name":"seq_loser","order":2,"path":"sequences/seq_loser/seq_loser.yy",},
     {"name":"obj_goal_trigger","order":6,"path":"objects/obj_goal_trigger/obj_goal_trigger.yy",},
     {"name":"Sprite9","order":24,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"obj_door","order":2,"path":"objects/obj_door/obj_door.yy",},

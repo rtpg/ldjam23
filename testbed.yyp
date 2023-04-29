@@ -44,6 +44,7 @@
     {"id":{"name":"warp_to_2","path":"objects/warp_to_2/warp_to_2.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
+    {"id":{"name":"seq_loser","path":"sequences/seq_loser/seq_loser.yy",},},
     {"id":{"name":"obj_goal_trigger","path":"objects/obj_goal_trigger/obj_goal_trigger.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},

@@ -29,8 +29,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
+    "name": "spr_button",
+    "path": "sprites/spr_button/spr_button.yy",
   },
   "spriteMaskId": null,
   "visible": true,

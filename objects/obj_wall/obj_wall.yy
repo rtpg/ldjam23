@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "testbed",
-    "path": "testbed.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -34,8 +34,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "wall",
-    "path": "sprites/wall/wall.yy",
+    "name": "spr_wall",
+    "path": "sprites/spr_wall/spr_wall.yy",
   },
   "spriteMaskId": null,
   "visible": true,

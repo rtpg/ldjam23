@@ -35,6 +35,8 @@
   },
   "resources": [
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"spr_warp_btn","path":"sprites/spr_warp_btn/spr_warp_btn.yy",},},
+    {"id":{"name":"WarpToLevel","path":"objects/WarpToLevel/WarpToLevel.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"warp_to_2","path":"objects/warp_to_2/warp_to_2.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
@@ -43,6 +45,7 @@
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
+    {"id":{"name":"FirstRoom","path":"rooms/FirstRoom/FirstRoom.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
@@ -51,6 +54,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"FirstRoom","path":"rooms/FirstRoom/FirstRoom.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

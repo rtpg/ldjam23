@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_warp_btn",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":73,"eventType":8,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "testbed",
+    "path": "testbed.yyp",
+  },
+  "parentObjectId": null,
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"target_room","filters":[
+        "GMRoom",
+      ],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Room2","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"button_txt","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Hello","varType":2,},
+  ],
+  "solid": false,
+  "spriteId": {
+    "name": "spr_warp_btn",
+    "path": "sprites/spr_warp_btn/spr_warp_btn.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}

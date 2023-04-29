@@ -19,7 +19,6 @@
   "ResourceOrderSettings": [
     {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
     {"name":"Sprite4","order":22,"path":"sprites/Sprite4/Sprite4.yy",},
-    {"name":"Sound1","order":25,"path":"sounds/Sound1/Sound1.yy",},
     {"name":"warp_to_2","order":18,"path":"objects/warp_to_2/warp_to_2.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},

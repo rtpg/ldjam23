@@ -31,3 +31,16 @@ if keyboard_check_pressed(ord("F")) {
 	image_index = (image_index == 0 ? 1 : 0);
   f_state = !f_state;
 }
+
+
+// Check for a collision with obj_door
+if (collision_circle(x, y, 5, obj_door, false, true)) {
+    // Play a sound effect that fire lit up
+    // audio_play_sound(snd_alert, 0, false);
+    
+    // fire lit up
+    // show_message("fire triggered!")
+	instance_create_layer(288, 480, "Instances",obj_fire);
+	// then go to take fire extinguisher
+	
+}

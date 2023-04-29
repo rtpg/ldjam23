@@ -27,7 +27,9 @@
     {"name":"spr_door","order":1,"path":"sprites/spr_door/spr_door.yy",},
     {"name":"FirstRoom","order":2,"path":"rooms/FirstRoom/FirstRoom.yy",},
     {"name":"Sprite2","order":19,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"spr_Cat","order":3,"path":"sprites/spr_Cat/spr_Cat.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"obj_cat","order":3,"path":"objects/obj_cat/obj_cat.yy",},
   ],
 }

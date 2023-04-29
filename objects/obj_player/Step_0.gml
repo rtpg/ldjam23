@@ -40,7 +40,10 @@ if (collision_circle(x, y, 5, obj_door, false, true)) {
     
     // fire lit up
     // show_message("fire triggered!")
-	instance_create_layer(288, 480, "Instances",obj_fire);
+	if (random(1) > 0.5) {
+		instance_create_layer(random_range(100, 800), random_range(100, 800), "Instances",obj_fire);
+	
+	}
 	// then go to take fire extinguisher
 	
 }
